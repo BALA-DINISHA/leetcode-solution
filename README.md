@@ -17,7 +17,10 @@ leetcode-solutions/
 │   ├── README.md
 │   └── Solution.java
 │
-├── ...
+├── 412-fizz-buzz/
+│   ├── README.md
+│   └── Solution.java
+│
 ```
 
 Each problem folder contains:
