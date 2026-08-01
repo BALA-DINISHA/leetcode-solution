@@ -21,6 +21,10 @@ leetcode-solutions/
 │   ├── README.md
 │   └── Solution.java
 │
+├── 2000-reversePrefix/
+│   ├── README.md
+│   └── Solution.java
+│
 ```
 
 Each problem folder contains:
