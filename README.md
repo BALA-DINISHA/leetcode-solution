@@ -25,10 +25,23 @@ leetcode-solutions/
 │   ├── README.md
 │   └── Solution.java
 │
-|──824-goat-latin/
-│
-├── README.md
-└── Solution.java
+|── 824-goat-latin/
+|   ├── README.md
+|   └── Solution.java
+|
+|── 6-zigzag-conversion/
+|   ├── README.md
+|   └── Solution.java
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 ```
 
 Each problem folder contains:
