@@ -13,7 +13,7 @@ leetcode-solutions/
 │
 ├── README.md
 │
-├── 3014-minimum-number-of-pushes-to-type-word-i/
+├──3014-minimum-number-of-pushes-to-type-word-i/
 │   ├── README.md
 │   └── Solution.java
 │
@@ -29,10 +29,13 @@ leetcode-solutions/
 |   ├── README.md
 |   └── Solution.java
 |
-|── 6-zigzag-conversion/
+|── zigzag-conversion/
 |   ├── README.md
 |   └── Solution.java
-|
+|── find-missing-elements/
+|   │
+|   ├── README.md
+|   └── Solution.java
 |
 |
 |
