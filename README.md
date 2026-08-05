@@ -37,7 +37,10 @@ leetcode-solutions/
 |   ├── README.md
 |   └── Solution.java
 |
-|
+|── 28-find-the-index-of-the-first-occurrence-in-a-string/
+|   │
+|   ├── README.md
+|   └── Solution.java
 |
 |
 |
