@@ -42,7 +42,10 @@ leetcode-solutions/
 |   ├── README.md
 |   └── Solution.java
 |
-|
+|──  3345-smallest-divisible-digit-product-i/
+|    │
+|    ├── README.md
+|    └── Solution.java                    
 |
 |
 |
