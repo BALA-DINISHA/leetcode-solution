@@ -43,12 +43,15 @@ leetcode-solutions/
 |   └── Solution.java
 |
 |──  3345-smallest-divisible-digit-product-i/
-|    │
-|    ├── README.md
-|    └── Solution.java                    
+|   │
+|   ├── README.md
+|   └── Solution.java                    
 |
 |
-|
+| ── 1189-maximum-number-of-balloons/
+|   │
+|   ├── README.md
+|   └── Solution.java
 |
 |
 ```
