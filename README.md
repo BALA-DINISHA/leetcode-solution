@@ -53,6 +53,11 @@ leetcode-solutions/
 |   ├── README.md
 |   └── Solution.java
 |
+| ── 66-plus-one
+|   │
+|   ├── README.md
+|   └── Solution.java
+|
 |
 ```
 
